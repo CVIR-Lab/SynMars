@@ -46,4 +46,4 @@ Route 6:
   <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r6_label0001.png width="40%" />
 </div>
 
-All Martian rocks were annotated regardless of size in SynMars, which contributes to a better robustness evaluation of various Transformer-based methods. Limited by the file size, we temporarily release 1/5 samples of each route. The rest samples will be provided after our paper is made public.
+All Martian rocks were annotated regardless of size in SynMars, which contributes to a better robustness evaluation of various Transformer-based methods. Limited by the file size, we temporarily release 25 samples of each route. The rest samples will be provided after our paper is made public.
