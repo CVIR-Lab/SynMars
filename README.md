@@ -8,18 +8,18 @@ We show 8 samples, including 4 samples in MarsData and 4 new ones in MarsData-V2
 
 4 samples in MarsData:
 <div align=center>
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r1_rgb0001.png width="30%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r1_label0001.png width="30%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r2_rgb0001.png width="30%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r2_label0001.png width="30%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r3_rgb0241.png width="30%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r3_label0241.png width="30%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r4_rgb0505.png width="30%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r4_label0505.png width="30%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r5_rgb0001.png width="30%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r5_label0001.png width="30%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r6_rgb0001.png width="30%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r6_label0001.png width="30%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r1_rgb0001.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r1_label0001.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r2_rgb0001.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r2_label0001.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r3_rgb0241.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r3_label0241.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r4_rgb0505.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r4_label0505.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r5_rgb0001.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r5_label0001.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r6_rgb0001.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r6_label0001.png width="40%" />
 </div>
 
 Limited by the file size, we temporarily release 100 samples in the train, validation and test set of MarsData-V2. All samples will be provided after our paper is made public.
