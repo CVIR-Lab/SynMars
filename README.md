@@ -46,8 +46,9 @@ Route 6:
 
 Limited by the file size, we temporarily release 25 samples of each route. The rest samples will be provided after our paper is made public.
 
-If you use **SynMars** for your research, please cite our papers：
 <!---
+If you use **SynMars** for your research, please cite our papers：
+
 ```
 @article{liu2023rockformer,
   title={RockFormer: A U-Shaped Transformer Network for Martian Rock Segmentation},
