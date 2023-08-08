@@ -45,3 +45,17 @@ Route 6:
 </div>
 
 Limited by the file size, we temporarily release 25 samples of each route. The rest samples will be provided after our paper is made public.
+
+If you use **SynMars** for your research, please cite our papers：
+
+```
+@article{liu2023rockformer,
+  title={RockFormer: A U-Shaped Transformer Network for Martian Rock Segmentation},
+  author={Liu, Haiqiang and Yao, Meibao and Xiao, Xueming and Xiong, Yonggang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={61},
+  pages={1--16},
+  year={2023},
+  publisher={IEEE}
+}
+```
