@@ -34,7 +34,7 @@ Route 5-6:
 Limited by the file size, we temporarily release 25 samples of each route. 
 
 ### SynMars-8k
-Besides, we also released a sub-dataset **SynMars-8k** sampled regularly from SynMars for preliminary testing and optimizing your model, since direct training on SynMars with 48k images need a little bit of time. **SynMars-8k** contains 8,000 images for training, 1,000 for validation and 1,000 for testing. Both **SynMars** and **SynMars-8k** will soon be public available.
+Besides, we also released a sub-dataset **SynMars-8k** sampled regularly from SynMars for preliminary testing and optimizing your model, since direct training on SynMars with 48k images needs a little bit of time. **SynMars-8k** contains 8,000 images for training, 1,000 for validation and 1,000 for testing. Both **SynMars** and **SynMars-8k** will soon be public available.
 
 <!--Currently, you can download SynMars by the following way, we will soon release more efficient ways to get them.
 
