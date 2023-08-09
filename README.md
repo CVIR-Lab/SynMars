@@ -34,24 +34,20 @@ Route 5-6:
 Limited by the file size, we temporarily release 25 samples of each route. 
 
 ### SynMars-8k
-Besides, we also released a sub-dataset **SynMars-8k** sampled regularly from SynMars for preliminary testing and optimizing your model, since direct training on SynMars with 48k images needs a little bit of time. **SynMars-8k** contains 8,000 images for training, 1,000 for validation and 1,000 for testing. Both **SynMars** and **SynMars-8k** will soon be public available.
+Besides, we also released a sub-dataset **SynMars-8k** sampled regularly from SynMars for preliminary testing and optimizing your model, since direct training on SynMars with 48k images needs a little bit of time. **SynMars-8k** contains 8,000 images for training, 1,000 for validation and 1,000 for testing.
 
-<!--Currently, you can download SynMars by the following way, we will soon release more efficient ways to get them.
+Currently, you can download **SynMars** and **SynMars-8k** by the following ways, we will soon release more efficient ways to get them.
 
-[SynMars:]()
--->
-<!---
+[SynMars:](http://gofile.me/6V28a/wIrQtb7Pt)
+
+
+[SynMars-8k](http://gofile.me/6V28a/2BegJScZw) or by [Baidu Cloud](https://pan.baidu.com/s/1nhG4RBV5VZAHH7EPW4a4hA)
+
+
 If you use **SynMars** for your research, please cite our papers：
 
 ```
-@article{liu2023rockformer,
-  title={RockFormer: A U-Shaped Transformer Network for Martian Rock Segmentation},
-  author={Liu, Haiqiang and Yao, Meibao and Xiao, Xueming and Xiong, Yonggang},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  volume={61},
-  pages={1--16},
-  year={2023},
-  publisher={IEEE}
-}
+Y. Xiong, X. Xiao, M. Yao, H. Liu, H. Yang and Y. Fu, "MarsFormer: Martian Rock Semantic Segmentation with Transformer," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3302649.
+
+H. Liu, M. Yao, X. Xiao and Y. Xiong, "RockFormer: A U-Shaped Transformer Network for Martian Rock Segmentation," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023, Art no. 4600116, doi: 10.1109/TGRS.2023.3235525.
 ```
---->
