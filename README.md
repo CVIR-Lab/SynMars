@@ -8,14 +8,11 @@ We release **SynMars**, a wide-angle synthetic dataset for Martian rock segmenta
 
 On each route, a virtual camera on a rover captured images with a resolution of 1920 x 1080. For a standard experiment, all images were divided into two 960 × 1080 sub-images for efficiency and resized to 1024 × 1024. The intrinsics and extrinsics of the camera were set according to those on the TianWen-1 rover such that the landform of SynMars is closer to that of the TianWen-1 dataset. We show a sample of each route as follow, where a background of undulating textured terrain, a foreground of Martian rocks with complex polygonal shapes, and a realistic lighting model casting shadows are well simulated. 
 
-Route 1:
+Route 1-2:
 <div align=center>
   <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r1_rgb0001.png width="20%" />
   <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r1_label0001.png width="20%" />
-</div>
 
-Route 2:
-<div align=center>
   <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r2_rgb0001.png width="20%" />
   <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r2_label0001.png width="20%" />
 </div>
