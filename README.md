@@ -10,38 +10,38 @@ On each route, a virtual camera on a rover captured images with a resolution of 
 
 Route 1:
 <div align=center>
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r1_rgb0001.png width="40%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r1_label0001.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r1_rgb0001.png width="20%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r1_label0001.png width="20%" />
 </div>
 
 Route 2:
 <div align=center>
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r2_rgb0001.png width="40%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r2_label0001.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r2_rgb0001.png width="20%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r2_label0001.png width="20%" />
 </div>
 
 Route 3:
 <div align=center>
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r3_rgb0241.png width="40%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r3_label0241.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r3_rgb0241.png width="20%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r3_label0241.png width="20%" />
 </div>
 
 Route 4:
 <div align=center>
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r4_rgb0505.png width="40%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r4_label0505.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r4_rgb0505.png width="20%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r4_label0505.png width="20%" />
 </div>
 
 Route 5:
 <div align=center>
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r5_rgb0001.png width="40%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r5_label0001.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r5_rgb0001.png width="20%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r5_label0001.png width="20%" />
 </div>
 
 Route 6:
 <div align=center>
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r6_rgb0001.png width="40%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r6_label0001.png width="40%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r6_rgb0001.png width="20%" />
+  <img src=https://github.com/lumahuayuan/SynMars/blob/master/samples/a6r6_label0001.png width="20%" />
 </div>
 Limited by the file size, we temporarily release 25 samples of each route. 
 
