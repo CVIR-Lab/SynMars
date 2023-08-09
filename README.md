@@ -41,8 +41,7 @@ Currently, you can download **SynMars** and **SynMars-8k** by the following ways
 [SynMars:](http://gofile.me/6V28a/wIrQtb7Pt)
 
 
-[SynMars-8k](http://gofile.me/6V28a/2BegJScZw) or by [Baidu Cloud](https://pan.baidu.com/s/1nhG4RBV5VZAHH7EPW4a4hA)
-
+SynMars-8k: [Lab filestation](http://gofile.me/6V28a/2BegJScZw) or by [Baidu Cloud](https://pan.baidu.com/s/1nhG4RBV5VZAHH7EPW4a4hA) with passcode: **synm**
 
 If you use **SynMars** for your research, please cite our papers：
 
