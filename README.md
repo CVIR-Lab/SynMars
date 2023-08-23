@@ -49,7 +49,23 @@ Currently, you can download **SynMars** and **SynMars-8k** by the following ways
 If you use **SynMars** or **SynMars-8k** for your research, please cite all the two papers：
 
 ```
-Y. Xiong, X. Xiao, M. Yao, H. Liu, H. Yang and Y. Fu, "MarsFormer: Martian Rock Semantic Segmentation with Transformer," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3302649.
+@article{xiong2023marsformer,
+  title={MarsFormer: Martian Rock Semantic Segmentation With Transformer},
+  author={Xiong, Yonggang and Xiao, Xueming and Yao, Meibao and Liu, Haiqiang and Yang, Hong and Fu, Yuegang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  volume={61},
+  pages={1-12},
+  year={2023},
+  doi={10.1109/TGRS.2023.3302649}
+}
 
-H. Liu, M. Yao, X. Xiao and Y. Xiong, "RockFormer: A U-Shaped Transformer Network for Martian Rock Segmentation," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023, Art no. 4600116, doi: 10.1109/TGRS.2023.3235525.
+@article{liu2023rockformer,
+  title={RockFormer: A U-Shaped Transformer Network for Martian Rock Segmentation},
+  author={Liu, Haiqiang and Yao, Meibao and Xiao, Xueming and Xiong, Yonggang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={61},
+  pages={1--16},
+  year={2023},
+  publisher={IEEE}
+}
 ```
