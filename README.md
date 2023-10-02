@@ -41,4 +41,4 @@ Currently, you can download **SynMars-TW** samples, we will soon release all the
 **Reference**  
 
 
-[1]Xiong, Yonggang, et al. "MarsFormer: Martian Rock Semantic Segmentation with Transformer." IEEE Transactions on Geoscience and Remote Sensing (2023),61,1-16.
+[1]Xiong, Y., Xiao, X., Yao, M., Liu, H., Yang, H., & Fu, Y. (2023). MarsFormer: Martian Rock Semantic Segmentation with Transformer. IEEE Transactions on Geoscience and Remote Sensing. 61,1-16.
