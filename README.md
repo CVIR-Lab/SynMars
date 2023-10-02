@@ -35,37 +35,8 @@ Route 5-6:
 </div>
 Limited by the file size, we temporarily release 25 samples of each route. 
 
-### SynMars-8k
-We also released a sub-dataset **SynMars-8k** sampled regularly from SynMars for preliminary testing and optimizing your model, since direct training on SynMars with 48k images needs a little bit of time. **SynMars-8k** contains 8,000 images for training, 1,000 for validation and 1,000 for testing. 
+Currently, you can download **SynMars-TW** samples, we will soon release all the data.
 
 
-Currently, you can download **SynMars** and **SynMars-8k** by the following ways, we will soon release more efficient ways to get them.
-
-[**SynMars**:](http://gofile.me/6V28a/wIrQtb7Pt)
-
-
-**SynMars-8k**: [Lab filestation](http://gofile.me/6V28a/2BegJScZw) or by [Google drive](https://drive.google.com/drive/folders/1ePsycyL5Se0VK5fYOgXKPXgyhU_2dQfO?usp=sharing) and [Baidu Cloud](https://pan.baidu.com/s/1nhG4RBV5VZAHH7EPW4a4hA) with passcode: **synm**
-
-If you use **SynMars** or **SynMars-8k** for your research, please cite all the two papers：
-
-```
-@article{xiong2023marsformer,
-  title={MarsFormer: Martian Rock Semantic Segmentation With Transformer},
-  author={Xiong, Yonggang and Xiao, Xueming and Yao, Meibao and Liu, Haiqiang and Yang, Hong and Fu, Yuegang},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  volume={61},
-  pages={1-12},
-  year={2023},
-  doi={10.1109/TGRS.2023.3302649}
-}
-
-@article{liu2023rockformer,
-  title={RockFormer: A U-Shaped Transformer Network for Martian Rock Segmentation},
-  author={Liu, Haiqiang and Yao, Meibao and Xiao, Xueming and Xiong, Yonggang},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  volume={61},
-  pages={1--16},
-  year={2023},
-  publisher={IEEE}
-}
-```
+**Reference**
+[1]Xiong, Yonggang, et al. "MarsFormer: Martian Rock Semantic Segmentation with Transformer." IEEE Transactions on Geoscience and Remote Sensing (2023),61,1-16.
