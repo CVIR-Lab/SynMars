@@ -13,7 +13,7 @@ Limited by the file size, we temporarily release 70 samples for the training set
 Currently, you can download **SynMars-TW** samples, we will soon release all the data.
 
 If you use **SynMars-TW** for your research, please cite the paper：
-'''
+```
 @article{xiong2024light4mars,
   title={Light4Mars: A lightweight transformer model for semantic segmentation on unstructured environment like Mars},
   author={Xiong, Yonggang and Xiao, Xueming and Yao, Meibao and Cui, Hutao and Fu, Yuegang},
@@ -23,7 +23,7 @@ If you use **SynMars-TW** for your research, please cite the paper：
   year={2024},
   publisher={Elsevier}
 }
-'''
+```
 
 
 **Reference**  
