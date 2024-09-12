@@ -14,7 +14,15 @@ Currently, you can download **SynMars-TW** samples, we will soon release all the
 
 If you use **SynMars-TW** for your research, please cite the paper：
 '''
-
+@article{xiong2024light4mars,
+  title={Light4Mars: A lightweight transformer model for semantic segmentation on unstructured environment like Mars},
+  author={Xiong, Yonggang and Xiao, Xueming and Yao, Meibao and Cui, Hutao and Fu, Yuegang},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={214},
+  pages={167--178},
+  year={2024},
+  publisher={Elsevier}
+}
 '''
 
 
