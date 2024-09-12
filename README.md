@@ -12,6 +12,12 @@ Limited by the file size, we temporarily release 70 samples for the training set
 
 Currently, you can download **SynMars-TW** samples, we will soon release all the data.
 
+If you use **SynMars-TW** for your research, please cite the paper：
+'''
+
+'''
+
+
 **Reference**  
 
 [1] Xiong, Y., Xiao, X., Yao, M., Liu, H., Yang, H., & Fu, Y. (2023). MarsFormer: Martian Rock Semantic Segmentation with Transformer. IEEE Transactions on Geoscience and Remote Sensing. 61,1-16.
