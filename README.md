@@ -10,7 +10,8 @@ The simulated environment is a Mars-like terrain with an area of 300 x 300 m tha
 
 Limited by the file size, we temporarily release 70 samples for the training set and 10 samples for both the validation and test sets.
 
-Currently, you can download **SynMars-TW** samples, we will soon release all the data.
+Currently, you can download **SynMars-TW** by the following ways, we will soon release more efficient ways to get them.
+[**SynMars-TW**]:(http://gofile.me/6V28a/PhCZj11Vd)
 
 If you use **SynMars-TW** for your research, please cite the paper：
 ```
