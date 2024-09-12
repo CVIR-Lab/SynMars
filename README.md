@@ -13,7 +13,7 @@ Limited by the file size, we temporarily release 70 samples for the training set
 Currently, you can download **SynMars-TW** by the following ways, we will soon release more efficient ways to get them.
 
 
-[**SynMars-TW**:](http://gofile.me/6V28a/PhCZj11Vd) or by [Baidu Cloud](https://pan.baidu.com/s/1i8sIwIkErI8edqrqcUANzQ) with passcode: synm-tw
+[**SynMars-TW**:](http://gofile.me/6V28a/PhCZj11Vd) or by [Baidu Cloud](https://pan.baidu.com/s/1i8sIwIkErI8edqrqcUANzQ) with passcode: sytw
 
 
 If you use **SynMars-TW** for your research, please cite the paper：
