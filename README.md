@@ -13,7 +13,7 @@ The simulated environment is a Mars-like terrain with an area of 300 x 300 m tha
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/mars_contrast.png width="60%" />
   <br>
   <strong> Fig.2. </strong>
-  <em> The left figures of (a)-(d) are images taken by the Curiosity rover, and the right are some images from our SynMars-TW</em>
+  <em> (a)-(d) are images taken by the Curiosity rover, and the right are some images from our SynMars-TW</em>
 </div>
 
 In each scene, an imgae pair is drawn from the left and right virtual cameras as shown in Fig3, and therefore SynMars-TW can support downstream vision missions like Stereo Matching and 3D reconstruction, etc. The intrinsics and extrinsics of the camera were set according to those on the Zhurong rover such that the landform of SynMars-TW is closer to that of the TianWen-1 dataset. A sample with 8 categories is shown below.
