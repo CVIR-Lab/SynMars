@@ -22,6 +22,9 @@ In each scene, an imgae pair is drawn from the left and right virtual cameras as
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_l_mask.png width="20%" />
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_r_image.png width="20%" />
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_r_mask.png width="20%" />
+  <br>
+  <strong> Fig.3. </strong>
+  <em> left to right: stero images and corresponding masks in SynMars-TW dataset</em>
 </div>
 
 Limited by the file size, we temporarily release 70 samples for the training set and 10 samples for both the validation and test sets.
