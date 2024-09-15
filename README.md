@@ -12,6 +12,8 @@ We release **SynMars-Air**, an all-terrain synthetic dataset for objects detecti
 The simulated environment is a Mars-like terrain with an area of 300 x 300 m that is populated by thousands of rocks. We built this terrain by referring to objects' distribution photographed by Zhurong rover and Curiosity rover. The intrinsics and extrinsics of the camera were set according to those on the Ingenuity Mars helicopter such that the landform of SynMars-Air is closer to that of the real Mars dataset. Below is a comparison of partial scene images of SynMars Air and Ingenuity Mars helicopter from different perspectives.
 <div align=center>
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-Air/IMG/Compare pictures.png width="60%" />
+  <strong> Fig.2. </strong>
+  <em> (a) - (c) is a comparison between some images of our SynMars Air and images captured by Ingenuity Mars helicopter probe</em>
 </div>
 
 Limited by the file size, we temporarily release 70 samples for the training set and 10 samples for both the validation and test sets.
