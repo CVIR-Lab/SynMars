@@ -27,8 +27,7 @@ In each scene, an imgae pair is drawn from the left and right virtual cameras as
   <em> left to right: stero images and corresponding masks in SynMars-TW dataset</em>
 </div>
 
-Limited by the file size, we temporarily release 70 samples for the training set and 10 samples for both the validation and test sets.
-
+Limited by the file size, we temporarily release 70 samples for the training set and 10 samples for both the validation and test sets. 
 Currently, you can download **SynMars-TW** by the following ways, we will soon release more efficient ways to get them.
 
 
