@@ -4,15 +4,19 @@ We release **SynMars-TW**, an all-terrain synthetic dataset for Martian objects 
 <div align=center>
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/rover.png width="60%" />
   <br>
+  <strong> Fig.1. </strong>
   <em> (a) Overview of the SynMars-TW dataset. The colored lines represent different routes of the rover. (b) Percentage of pixels by category.</em>
 </div>
-The simulated environment is a Mars-like terrain with an area of 300 x 300 m that is populated by thousands of rocks. We built this terrain by referring to objects' distribution photographed by Zhurong rover and Curiosity rover. In each scene, an imgae pair is drawn from the left and right virtual cameras, and therefore SynMars-TW can support downstream vision missions like Stereo Matching and 3D reconstruction, etc. The intrinsics and extrinsics of the camera were set according to those on the Zhurong rover such that the landform of SynMars-TW is closer to that of the TianWen-1 dataset. A sample with 8 categories is shown below.
+
+The simulated environment is a Mars-like terrain with an area of 300 x 300 m that is populated by thousands of rocks. We built this terrain by referring to objects' distribution photographed by Zhurong rover. Currently, representative objects in scenes of the ZhuRong rover are small rocks. For object diversity, we added some new object categories drew from Curiosity rover as shown in Fig.2. Referring to the parameter settings of NaTeCam[^2] of the ZhuRong rover, with a distance of about 1.2 meters from the ground.
 <div align=center>
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/mars_contrast.png width="60%" />
   <br>
-  <em> Currently, representative objects in scenes of the ZhuRong rover are small rocks. For object diversity, we added some new object categories drew from Curiosity rover as shown in Fig. (a)-(d). The left figure is an image taken by the Curiosity rover, and the right figure is some detail images from our SynMars-TW</em>
+  <strong> Fig.2. </strong>
+  <em> The left figures of (a)-(d) are images taken by the Curiosity rover, and the right are some images from our SynMars-TW</em>
 </div>
 
+In each scene, an imgae pair is drawn from the left and right virtual cameras, and therefore SynMars-TW can support downstream vision missions like Stereo Matching and 3D reconstruction, etc. The intrinsics and extrinsics of the camera were set according to those on the Zhurong rover such that the landform of SynMars-TW is closer to that of the TianWen-1 dataset. A sample with 8 categories is shown below.
 <div align=center>
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_r_image.png width="20%" />
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_r_mask.png width="20%" />
@@ -43,3 +47,4 @@ If you use **SynMars-TW** for your research, please cite the paper：
 **Reference**  
 
 [1] Xiong, Y., Xiao, X., Yao, M., Liu, H., Yang, H., & Fu, Y. (2023). MarsFormer: Martian Rock Semantic Segmentation with Transformer. IEEE Transactions on Geoscience and Remote Sensing. 61,1-16.
+[^2]: To get a larger percentage of each type of target in each image, we increase the focal length.
