@@ -4,6 +4,7 @@ We release **SynMars-TW**, an all-terrain synthetic dataset for Martian objects 
 
 The simulated environment is a Mars-like terrain with an area of 300 x 300 m that is populated by thousands of rocks. We built this terrain by referring to objects' distribution photographed by Zhurong rover and Curiosity rover. In each scene, an imgae pair is drawn from the left and right virtual cameras, and therefore SynMars-TW can support downstream vision missions like Stereo Matching and 3D reconstruction, etc. The intrinsics and extrinsics of the camera were set according to those on the Zhurong rover such that the landform of SynMars-TW is closer to that of the TianWen-1 dataset. A sample with 8 categories is shown below.
 <div align=center>
+    <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/rover.pdf width="20%" />
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_r_image.png width="20%" />
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_r_mask.png width="20%" />
 </div>
