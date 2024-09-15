@@ -17,10 +17,10 @@ The simulated environment is a Mars-like terrain with an area of 300 x 300 m tha
 </div>
 In each scenario, as shown in Figure 3, the Mars helicopter collaborates with the Mars rover through a virtual camera for exploration. SynMars Air is capable of supporting various downstream visual tasks, including object detection, semantic segmentation, and 3D reconstruction. Referring to the Ingenuity Mars helicopter of Zhurong, its flight altitude is about 5 meters above the ground.
 <div align=center>
-  <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_l_image.png width="20%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_l_mask.png width="20%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_r_image.png width="20%" />
-  <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_r_mask.png width="20%" />
+  <img src=https://github.com/CVIR-Lab/SynMars/blob/SynMars-Air/IMG/00788.image.png width="20%" />
+  <img src=https://github.com/CVIR-Lab/SynMars/blob/SynMars-Air/IMG/00788.mask.png width="20%" />
+  <img src=https://github.com/CVIR-Lab/SynMars/blob/SynMars-Air/IMG/01030.image.png width="20%" />
+  <img src=https://github.com/CVIR-Lab/SynMars/blob/SynMars-Air/IMG/01030.mask.png width="20%" />
   <br>
   <strong> Fig.3. </strong>
   <em> left to right: stero images and corresponding masks in SynMars-Air dataset</em>
