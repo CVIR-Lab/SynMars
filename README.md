@@ -27,7 +27,7 @@ In each scenario, as shown in Figure 3, the Mars helicopter collaborates with th
   <strong> Fig.3. </strong>
   <em> left to right: stero images and corresponding masks in SynMars-Air dataset</em>
 </div>
-Limited by the file size, we temporarily release 70 samples for the training set and 10 samples for both the validation and test sets.
+Limited by the file size, we temporarily release 60 samples for the training set and 10 samples for both the validation and test sets.
 
 Currently, you can download **SynMars-Air** samples, we will soon release all the data.
 
