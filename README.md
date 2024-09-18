@@ -9,12 +9,12 @@ We release **SynMars-Air**, an all-terrain synthetic dataset for objects detecti
 </div>
 
 
-The simulated environment is a Mars-like terrain with an area of 300 x 300 m that is populated by thousands of rocks. We built this terrain by referring to objects' distribution photographed by Zhurong rover and Curiosity rover. The intrinsics and extrinsics of the camera were set according to those on the Ingenuity Mars helicopter such that the landform of SynMars-Air is closer to that of the real Mars dataset. Below is a comparison of partial scene images of SynMars Air and Ingenuity Mars helicopter from different perspectives.
+The simulated environment is a Mars-like terrain with an area of 300 x 300 m that is populated by thousands of rocks. We built this terrain by referring to objects' distribution photographed by Zhurong rover and Curiosity rover. The intrinsics and extrinsics of the camera were set according to those on the Ingenuity Mars helicopter such that the landform of SynMars-Air is closer to that of the real Mars dataset. Fig2 shows the comparison of partial scene images of SynMars Air and Ingenuity Mars helicopter from different perspectives.
 <div align=center>
   <img src=https://github.com/CVIR-Lab/SynMars/blob/SynMars-Air/IMG/Compare.png width="60%" />
   <br>
   <strong> Fig.2. </strong>
-  <em> (a) - (c) is a comparison between some images of our SynMars Air and images captured by Ingenuity Mars helicopter probe</em>
+  <em> (a) - (c) are the comparison between some typical images of our SynMars Air and images by Ingenuity Mars helicopter</em>
 </div>
 
 In each scenario, as shown in Figure 3, the Mars helicopter collaborates with the Mars rover through a virtual camera for exploration. SynMars Air is capable of supporting various downstream visual tasks, including object detection, semantic segmentation, and 3D reconstruction. Referring to the Ingenuity Mars helicopter of Zhurong, its flight altitude is about 5 meters above the ground.
@@ -25,7 +25,7 @@ In each scenario, as shown in Figure 3, the Mars helicopter collaborates with th
   <img src=https://github.com/CVIR-Lab/SynMars/blob/SynMars-Air/IMG/01030.mask.png width="20%" />
   <br>
   <strong> Fig.3. </strong>
-  <em> left to right: stero images and corresponding masks in SynMars-Air dataset</em>
+  <em> left to right: images and corresponding masks in SynMars-Air dataset</em>
 </div>
 Limited by the file size, we temporarily release 60 samples for the training set and 10 samples for both the validation and test sets.
 
