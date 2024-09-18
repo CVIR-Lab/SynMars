@@ -17,7 +17,7 @@ The simulated environment is a Mars-like terrain with an area of 300 x 300 m tha
   <em> (a) - (c) are the comparison between some typical images of our SynMars Air and images by Ingenuity Mars helicopter</em>
 </div>
 
-In each scenario, as shown in Figure 3, the Mars helicopter collaborates with the Mars rover through a virtual camera for exploration. SynMars Air is capable of supporting various downstream visual tasks, including object detection, semantic segmentation, and 3D reconstruction. Referring to the Ingenuity Mars helicopter of Zhurong, its flight altitude is about 5 meters above the ground.
+In each scenario, as shown in Figure 3, the Mars helicopter collaborates with the Mars rover through a virtual camera for exploration. SynMars Air is capable of supporting various downstream visual tasks, including object detection, semantic segmentation, and 3D reconstruction. Referring to the Ingenuity Mars helicopter, its flight altitude is set about 5 meters above the ground.
 <div align=center>
   <img src=https://github.com/CVIR-Lab/SynMars/blob/SynMars-Air/IMG/00788.image.png width="20%" />
   <img src=https://github.com/CVIR-Lab/SynMars/blob/SynMars-Air/IMG/00788.mask.png width="20%" />
