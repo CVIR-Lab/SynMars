@@ -58,7 +58,9 @@ If you use **SynMars** or **SynMars-8k** for your research, please cite the foll
   year={2023},
   doi={10.1109/TGRS.2023.3302649}
 }
-<!--@article{liu2023rockformer,
+```
+<!--
+@article{liu2023rockformer,
   title={RockFormer: A U-Shaped Transformer Network for Martian Rock Segmentation},
   author={Liu, Haiqiang and Yao, Meibao and Xiao, Xueming and Xiong, Yonggang},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
@@ -66,5 +68,5 @@ If you use **SynMars** or **SynMars-8k** for your research, please cite the foll
   pages={1--16},
   year={2023},
   publisher={IEEE}
-}-->
-```
+}
+-->
