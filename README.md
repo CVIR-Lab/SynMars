@@ -46,7 +46,7 @@ Currently, you can download **SynMars** and **SynMars-8k** by the following ways
 
 **SynMars-8k**: [Lab filestation](http://gofile.me/6V28a/2BegJScZw) or by [Google drive](https://drive.google.com/drive/folders/1ePsycyL5Se0VK5fYOgXKPXgyhU_2dQfO?usp=sharing) and [Baidu Cloud](https://pan.baidu.com/s/1nhG4RBV5VZAHH7EPW4a4hA) with passcode: **synm**
 
-If you use **SynMars** or **SynMars-8k** for your research, please cite all the two papers：
+If you use **SynMars** or **SynMars-8k** for your research, please cite the following paper：
 
 ```
 @article{xiong2023marsformer,
@@ -58,8 +58,7 @@ If you use **SynMars** or **SynMars-8k** for your research, please cite all the 
   year={2023},
   doi={10.1109/TGRS.2023.3302649}
 }
-
-@article{liu2023rockformer,
+<!--@article{liu2023rockformer,
   title={RockFormer: A U-Shaped Transformer Network for Martian Rock Segmentation},
   author={Liu, Haiqiang and Yao, Meibao and Xiao, Xueming and Xiong, Yonggang},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
@@ -67,5 +66,5 @@ If you use **SynMars** or **SynMars-8k** for your research, please cite all the 
   pages={1--16},
   year={2023},
   publisher={IEEE}
-}
+}-->
 ```
