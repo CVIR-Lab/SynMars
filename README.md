@@ -31,6 +31,17 @@ Limited by the file size, we temporarily release 60 samples for the training set
 
 Currently, you can download **SynMars-Air** samples, we will soon release all the data.
 
+If you use **SynMars-Air** for your research, please cite the paper：
+```
+@article{qi2024airformer,
+  title={AirFormer: Learning-Based Object Detection For Mars Helicopter},
+  author={Qi, Yifan and Xiao, Xueming and Yao, Meibao and Xiong, Yonggang and Zhang, Lei and Cui, Hutao},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year={2024},
+  publisher={IEEE}
+}
+```
+
 **Reference**  
 
 [1] Xiong, Y., Xiao, X., Yao, M., Cui, H., & Fu, Y. (2024). Light4Mars: A lightweight transformer model for semantic segmentation on unstructured environment like Mars. ISPRS Journal of Photogrammetry and Remote Sensing, 214, 167-178.
