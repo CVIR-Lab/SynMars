@@ -29,7 +29,7 @@ In each scenario, as shown in Figure 3, the Mars helicopter collaborates with th
 </div>
 Limited by the file size, we temporarily release 60 samples for the training set and 10 samples for both the validation and test sets.
 
-[**SynMars-TW**:](http://gofile.me/6V28a/ReRfsf0e3) or by [Baidu Cloud](https://pan.baidu.com/s/1i8sIwIkErI8edqrqcUANzQ) with passcode: **sytw**
+[**SynMars-Air**:](http://gofile.me/6V28a/ReRfsf0e3) or by [Baidu Cloud](https://pan.baidu.com/s/1i8sIwIkErI8edqrqcUANzQ) with passcode: **sytw**
 
 If you use **SynMars-Air** for your research, please cite the paper：
 ```
