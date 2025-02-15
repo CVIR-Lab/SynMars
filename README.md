@@ -34,7 +34,7 @@ Currently, you can download **SynMars-TW** by the following ways, we will soon r
 [**SynMars-TW**:](http://gofile.me/6V28a/PhCZj11Vd) or by [Baidu Cloud](https://pan.baidu.com/s/1i8sIwIkErI8edqrqcUANzQ) with passcode: **sytw**
 
 
-If you use **SynMars-TW** for your research, please cite the paper：
+If you use **SynMars-TW** for your research, please cite all the following papers：
 ```
 @article{xiong2024light4mars,
   title={Light4Mars: A lightweight transformer model for semantic segmentation on unstructured environment like Mars},
@@ -44,6 +44,14 @@ If you use **SynMars-TW** for your research, please cite the paper：
   pages={167--178},
   year={2024},
   publisher={Elsevier}
+}
+
+@article{xiong2023marsformer,
+  title={Marsformer: Martian rock semantic segmentation with transformer},
+  author={Xiong, Yonggang and Xiao, Xueming and Yao, Meibao and Liu, Haiqiang and Yang, Hong and Fu, Yuegang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2023},
+  publisher={IEEE}
 }
 ```
 
