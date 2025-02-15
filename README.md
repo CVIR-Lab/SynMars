@@ -21,7 +21,7 @@ In each scene, the RGB imgae pairs with corresponding depth image pairs are draw
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_l_image.png width="23%" />
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_l_mask.png width="23%" />
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_l_depth.png width="23%" />
-  
+  <br>
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_r_image.png width="23%" />
   <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_r_mask.png width="23%" />
    <img src=https://github.com/lumahuayuan/SynMars/blob/SynMars-TW/IMG/reverse_9_0053_r_depth.png width="23%" />
