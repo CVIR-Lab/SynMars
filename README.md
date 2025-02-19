@@ -39,12 +39,12 @@ Limited by the file size, we temporarily release 25 samples of each route.
 We also released a sub-dataset **SynMars-8k** sampled regularly from SynMars for preliminary testing and optimizing your model, since direct training on SynMars with 48k images needs a little bit of time. **SynMars-8k** contains 8,000 images for training, 1,000 for validation and 1,000 for testing. 
 
 
-Currently, you can download **SynMars** and **SynMars-8k** by the following ways, we will soon release more efficient ways to get them.
+You can download **SynMars** and **SynMars-8k** by the following ways.
 
-**SynMars**:[**Lab filestation**:](http://gofile.me/6V28a/wIrQtb7Pt) or by [Baidu Cloud](https://pan.baidu.com/s/1AsBSG7gwWxAkCW6ILfxU9A) with passcode:**synm**
+**SynMars**: [**CVIR filestation**:](http://gofile.me/6V28a/wIrQtb7Pt) or by [Baidu Cloud](https://pan.baidu.com/s/1AsBSG7gwWxAkCW6ILfxU9A) with passcode:**synm**
 
 
-**SynMars-8k**: [Lab filestation](http://gofile.me/6V28a/2BegJScZw) or by [Baidu Cloud](https://pan.baidu.com/s/1nhG4RBV5VZAHH7EPW4a4hA) with passcode: **synm**
+**SynMars-8k**: [CVIR filestation](http://gofile.me/6V28a/2BegJScZw) or by [Baidu Cloud](https://pan.baidu.com/s/1nhG4RBV5VZAHH7EPW4a4hA) with passcode: **synm**
 
 If you use **SynMars** or **SynMars-8k** for your research, please cite the following paper：
 
