@@ -41,7 +41,7 @@ We also released a sub-dataset **SynMars-8k** sampled regularly from SynMars for
 
 Currently, you can download **SynMars** and **SynMars-8k** by the following ways, we will soon release more efficient ways to get them.
 
-[**SynMars**:](http://gofile.me/6V28a/wIrQtb7Pt)
+**SynMars**:[**Lab filestation**:](http://gofile.me/6V28a/wIrQtb7Pt) or by [Baidu Cloud](https://pan.baidu.com/s/1AsBSG7gwWxAkCW6ILfxU9A) with passcode:""synm""
 
 
 **SynMars-8k**: [Lab filestation](http://gofile.me/6V28a/2BegJScZw) or by [Baidu Cloud](https://pan.baidu.com/s/1nhG4RBV5VZAHH7EPW4a4hA) with passcode: **synm**
